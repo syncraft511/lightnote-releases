@@ -1,0 +1,9 @@
+{
+  "versionCode": 2,
+  "versionName": "0.2.0-beta.1",
+  "packageName": "com.siyxo.jianzhong",
+  "apkUrl": "https://github.com/syncraft511/lightnote-releases/releases/download/v0.2.0-beta.1/lightnote-0.2.0-beta.1.apk",
+  "sha256": "6c84799c1e93d8f55f374fdafacb2a48b7d9135769f7930ac7132f4e3030e8e8",
+  "publishedAt": "2026-10-18T07:25:00Z",
+  "notes": "首个应用内更新测试版"
+}
