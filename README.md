@@ -6,9 +6,9 @@
 
 当前测试版下载页：
 
-https://github.com/syncraft511/lightnote-releases/releases/tag/v0.2.0-beta.1
+https://github.com/syncraft511/lightnote-releases/releases/tag/v0.2.1-beta.2
 
-当前测试版：`v0.2.0-beta.1`
+当前测试版：`v0.2.1-beta.2`
 
 ## 说明
 
